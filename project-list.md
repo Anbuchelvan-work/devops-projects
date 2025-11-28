@@ -12,3 +12,11 @@ Preparing project structure.
 
 ## Notes
 This folder will contain all practical DevOps projects.
+
+## Backlog (Initial Tasks)
+
+1. Setup GitHub Actions CI pipeline (done)
+2. Add Dockerized sample application
+3. Add Linux automation script example
+4. Add Terraform folder structure (skeleton)
+5. Create end-to-end DevOps project plan
