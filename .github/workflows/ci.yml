@@ -23,7 +23,7 @@ jobs:
       run: |
         if [ -f "docker-app/requirements.txt" ]; then pip install -r docker-app/requirements.txt; fi
 
-            - name: Run Smoke Test
+    - name: Run Smoke Test
       run: |
         if [ -f "docker-app/app.py" ]; then echo "Smoke test passed"; else echo "Smoke test failed" && exit 1; fi
 
