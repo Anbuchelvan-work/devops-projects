@@ -20,3 +20,5 @@ This folder will contain all practical DevOps projects.
 3. Add Linux automation script example
 4. Add Terraform folder structure (skeleton)
 5. Create end-to-end DevOps project plan
+
+🔥 Completed: Dockerized sample application build + execution + validation
