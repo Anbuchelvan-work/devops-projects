@@ -21,4 +21,10 @@ This folder will contain all practical DevOps projects.
 4. Add Terraform folder structure (skeleton)
 5. Create end-to-end DevOps project plan
 
-🔥 Completed: Dockerized sample application build + execution + validation
+## Completed Tasks
+
+✔ Dockerized sample Flask application built and executed locally  
+✔ CI pipeline updated with Python setup and smoke test  
+✔ Feature branch workflow used and merged via PR  
+✔ Docker image built and validated through localhost testing
+
